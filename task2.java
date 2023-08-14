@@ -62,8 +62,6 @@ public class guess
            score=40;
            else if(attempts==4)
            score=50;
-           else
-           score=50;
           }
            System.out.println("Score:"+score);
            round--;
